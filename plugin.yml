@@ -1,0 +1,8 @@
+name: Core
+version: 1.0.3
+api: 1.0.0
+main: de.circleoftrust.Main
+author: CircleOfTrust
+commands:
+ info:
+  description: "/info"
